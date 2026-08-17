@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
