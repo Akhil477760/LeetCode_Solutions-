@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0064-minimum-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
