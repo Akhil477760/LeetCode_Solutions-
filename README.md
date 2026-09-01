@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0070-climbing-stairs) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0883-projection-area-of-3d-shapes) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0078-subsets) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0883-projection-area-of-3d-shapes) |
 ## Backtracking
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0064-minimum-path-sum) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0883-projection-area-of-3d-shapes) |
 ## Linked List
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0094-binary-tree-inorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/Akhil477760/LeetCode_Solutions-/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
